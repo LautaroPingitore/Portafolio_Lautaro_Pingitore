@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: 'Portafolio_Lautaro_Pingitore'
+  base: '/Portafolio_Lautaro_Pingitore/'
 });
