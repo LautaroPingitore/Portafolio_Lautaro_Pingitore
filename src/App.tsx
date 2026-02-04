@@ -74,7 +74,7 @@ function App() {
               Welcome
             </h1>
             <p className="text-base sm:text-lg leading-relaxed mt-5 max-w-2xl mx-auto lg:mx-0 animate-fade-slide-in">
-              Hi! My name is Lautaro Pingitore, I'm 19 years old and currently studying Systems Engineering at the{' '}
+              Hi! My name is Lautaro Pingitore, I'm 20 years old and currently studying Systems Engineering at the{' '}
               <abbr title="National Technological University" className="no-underline cursor-help">UTN</abbr>.
               I'm actively seeking my first work experience where I can grow both personally and professionally, while developing skills that will help me in the future.
               <br /><br />
